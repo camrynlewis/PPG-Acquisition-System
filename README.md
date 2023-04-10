@@ -1,5 +1,7 @@
 # PPG-Acquisition-System
 
+Dr. May Mansy, Siara Donelan-Rodriguez, Camryn Lewis, Nicole Sarna, & Julia Withrow
+
 ## Read Serial Data
 This script reads serial data from the Arduino-Uno board, collects the data
 in the 'Data' variable and plots it. The script also calculates the
